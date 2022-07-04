@@ -1,0 +1,62 @@
+.pic{
+    text-align: center;
+    padding-top: 100px;
+}
+button{
+    background-color: white;
+    border: none;
+    color: seagreen;
+}
+.images{
+    display: flex;
+        padding-left: 200px;
+        position:relative;
+        bottom: 250px;
+        left: 130px; 
+
+}
+.img2{
+    position: relative;
+    bottom: 420px;
+     
+    right: 80px;
+}
+.img3{
+    position: relative;
+    bottom: 250px;
+    right: 50px;
+}
+.vidtag{
+    height: 400px;
+    width: 700px;
+    position: relative;
+    right: 400px;
+} 
+.roundpic{
+     margin-left: 160px;
+    border-radius: 50%
+    
+}
+.regina{
+    margin-top: 190px;
+    
+}
+.newsitter{
+     text-align: center;
+    color: seagreen;
+}
+.news{
+    padding-top: 100px;
+}
+.newsbutton12{
+    padding-left: 50px;
+    border: 2px;
+}
+li{
+    list-style: none;
+}
+.socials{
+    display: inline-block;
+     
+    justify-content: space-between;
+}
